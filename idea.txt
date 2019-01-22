@@ -1,0 +1,1 @@
+(a V b V c) A (\c V a)
